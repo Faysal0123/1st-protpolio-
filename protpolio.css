@@ -105,35 +105,36 @@
     padding: 10px;
     
     }
-    .foot{
-        display: flex;
-        
-    }
     
+
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    ;
+.foot{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-decoration: underline;
+    cursor: pointer;
 }
+
+}
+
+     
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
