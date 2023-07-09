@@ -1,0 +1,139 @@
+*{
+    margin: 0%;
+    padding:0%;
+
+}
+.menu-container{
+    background-color: azure;
+    color: red;
+    list-style: none;
+    padding: 3%;
+    display : flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.menus{
+    display: flex;
+}
+.logo-photo{
+    width: 80px;
+    background-color: black
+    
+}
+.item{
+    margin-right: 10px;
+    padding-right: 7px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.item:hover{
+   color: blue 
+}
+.banner-img{
+    width: 300px
+}
+.banner-container{
+    display: flex;}
+    .banner-container{
+        justify-content: space-around;
+        height: 100vh;
+        align-items: center;
+        color: white;
+    
+
+        background-image: url("./protpolio image/ryan-moreno-w1_4YH5IhDg-unsplash.jpg"),linear-gradient(45deg,#0c0c0c,#000)
+    }
+    .title{
+        font-size: 55px;
+        font-weight: bold;
+    }
+    .description{
+        font-size: 18px,
+        margin-top: 15px;
+        margin-bottom : 15px;
+    }
+    .btm{
+        padding: 10px 20px;
+        background-color:red;
+        color: rgb(255, 255, 255);
+        border: none;  
+    }
+    .btm:hover{
+        color: #00ff2a;
+        cursor: pointer
+    }
+    .about-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row-reverse;
+        padding: 10px;
+    }
+    
+    .about{
+        text-align: center;
+        padding: 20px;
+
+    }    
+    .box{
+        width: 150px;
+        height: 150px;
+        box-shadow: 2px 2px 20px mediumspringgreen
+    }
+    .box-btm{
+        background-color: gray;
+        margin-top: 10px
+    }
+    .box-title{
+        padding: 10px
+    }
+    
+    .box-description{
+        padding: 5px;
+    }
+    
+    .service-container {
+        
+        
+    background-color:black;
+    color: red;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 10px;
+    
+    }
+    .foot{
+        display: flex;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+}
